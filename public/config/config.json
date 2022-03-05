@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x98c676352be9308992b7347721fce5143b237ce2",
+  "SCAN_LINK": "https://etherscan.io/address/0x98c676352be9308992b7347721fce5143b237ce2",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Kevin Ape Yacht Club",
+  "SYMBOL": "KAYC",
+  "MAX_SUPPLY": 1669,
+  "WEI_COST": 6900000000000000,
+  "DISPLAY_COST": 0.0069,
+  "GAS_LIMIT": 190000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/kevinapeyachtclub-1/",
+  "TWITTER_LINK": "https://twitter.com/kevinapeyc/",
+  "SHOW_BACKGROUND": true
+}
